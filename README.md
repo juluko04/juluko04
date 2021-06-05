@@ -1,4 +1,4 @@
-- 👋 Hola, soy @juluko04
+- 👋 Hola, soy Julian Konop
 - 👀 Estoy interesado en programar
 - 🌱 Estoy aprendiendo Javascript
 - 💞️ Estoy buscando participar en cualquier tipo de proyecto 
